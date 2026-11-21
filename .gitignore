@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+data/
+cache/
+ref/
+*_out*/
+*.csv
+*.npz
+*.log
+figs/
